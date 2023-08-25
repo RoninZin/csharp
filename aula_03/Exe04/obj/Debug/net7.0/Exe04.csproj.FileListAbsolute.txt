@@ -1,0 +1,14 @@
+C:\Users\RoninW\Desktop\C#\aula_03\Exe04\obj\Debug\net7.0\Exe04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RoninW\Desktop\C#\aula_03\Exe04\obj\Debug\net7.0\Exe04.AssemblyInfoInputs.cache
+C:\Users\RoninW\Desktop\C#\aula_03\Exe04\obj\Debug\net7.0\Exe04.AssemblyInfo.cs
+C:\Users\RoninW\Desktop\C#\aula_03\Exe04\obj\Debug\net7.0\Exe04.csproj.CoreCompileInputs.cache
+C:\Users\RoninW\Desktop\C#\aula_03\Exe04\bin\Debug\net7.0\Exe04.exe
+C:\Users\RoninW\Desktop\C#\aula_03\Exe04\bin\Debug\net7.0\Exe04.deps.json
+C:\Users\RoninW\Desktop\C#\aula_03\Exe04\bin\Debug\net7.0\Exe04.runtimeconfig.json
+C:\Users\RoninW\Desktop\C#\aula_03\Exe04\bin\Debug\net7.0\Exe04.dll
+C:\Users\RoninW\Desktop\C#\aula_03\Exe04\bin\Debug\net7.0\Exe04.pdb
+C:\Users\RoninW\Desktop\C#\aula_03\Exe04\obj\Debug\net7.0\Exe04.dll
+C:\Users\RoninW\Desktop\C#\aula_03\Exe04\obj\Debug\net7.0\refint\Exe04.dll
+C:\Users\RoninW\Desktop\C#\aula_03\Exe04\obj\Debug\net7.0\Exe04.pdb
+C:\Users\RoninW\Desktop\C#\aula_03\Exe04\obj\Debug\net7.0\Exe04.genruntimeconfig.cache
+C:\Users\RoninW\Desktop\C#\aula_03\Exe04\obj\Debug\net7.0\ref\Exe04.dll

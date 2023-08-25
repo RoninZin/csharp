@@ -1,0 +1,14 @@
+C:\Users\RoninW\Desktop\C#\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RoninW\Desktop\C#\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.AssemblyInfoInputs.cache
+C:\Users\RoninW\Desktop\C#\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.AssemblyInfo.cs
+C:\Users\RoninW\Desktop\C#\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.csproj.CoreCompileInputs.cache
+C:\Users\RoninW\Desktop\C#\aula_04\Pesquisa\bin\Debug\net7.0\Pesquisa.exe
+C:\Users\RoninW\Desktop\C#\aula_04\Pesquisa\bin\Debug\net7.0\Pesquisa.deps.json
+C:\Users\RoninW\Desktop\C#\aula_04\Pesquisa\bin\Debug\net7.0\Pesquisa.runtimeconfig.json
+C:\Users\RoninW\Desktop\C#\aula_04\Pesquisa\bin\Debug\net7.0\Pesquisa.dll
+C:\Users\RoninW\Desktop\C#\aula_04\Pesquisa\bin\Debug\net7.0\Pesquisa.pdb
+C:\Users\RoninW\Desktop\C#\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.dll
+C:\Users\RoninW\Desktop\C#\aula_04\Pesquisa\obj\Debug\net7.0\refint\Pesquisa.dll
+C:\Users\RoninW\Desktop\C#\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.pdb
+C:\Users\RoninW\Desktop\C#\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.genruntimeconfig.cache
+C:\Users\RoninW\Desktop\C#\aula_04\Pesquisa\obj\Debug\net7.0\ref\Pesquisa.dll
