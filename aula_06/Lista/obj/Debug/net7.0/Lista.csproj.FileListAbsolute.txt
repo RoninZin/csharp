@@ -1,0 +1,14 @@
+C:\Users\RoninW\Desktop\C#\aula_06\Lista\bin\Debug\net7.0\Lista.exe
+C:\Users\RoninW\Desktop\C#\aula_06\Lista\bin\Debug\net7.0\Lista.deps.json
+C:\Users\RoninW\Desktop\C#\aula_06\Lista\bin\Debug\net7.0\Lista.runtimeconfig.json
+C:\Users\RoninW\Desktop\C#\aula_06\Lista\bin\Debug\net7.0\Lista.dll
+C:\Users\RoninW\Desktop\C#\aula_06\Lista\bin\Debug\net7.0\Lista.pdb
+C:\Users\RoninW\Desktop\C#\aula_06\Lista\obj\Debug\net7.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RoninW\Desktop\C#\aula_06\Lista\obj\Debug\net7.0\Lista.AssemblyInfoInputs.cache
+C:\Users\RoninW\Desktop\C#\aula_06\Lista\obj\Debug\net7.0\Lista.AssemblyInfo.cs
+C:\Users\RoninW\Desktop\C#\aula_06\Lista\obj\Debug\net7.0\Lista.csproj.CoreCompileInputs.cache
+C:\Users\RoninW\Desktop\C#\aula_06\Lista\obj\Debug\net7.0\Lista.dll
+C:\Users\RoninW\Desktop\C#\aula_06\Lista\obj\Debug\net7.0\refint\Lista.dll
+C:\Users\RoninW\Desktop\C#\aula_06\Lista\obj\Debug\net7.0\Lista.pdb
+C:\Users\RoninW\Desktop\C#\aula_06\Lista\obj\Debug\net7.0\Lista.genruntimeconfig.cache
+C:\Users\RoninW\Desktop\C#\aula_06\Lista\obj\Debug\net7.0\ref\Lista.dll

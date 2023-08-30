@@ -1,0 +1,14 @@
+C:\Users\RoninW\Desktop\C#\aula_06\Atv01Fila\bin\Debug\net7.0\Atv01Fila.exe
+C:\Users\RoninW\Desktop\C#\aula_06\Atv01Fila\bin\Debug\net7.0\Atv01Fila.deps.json
+C:\Users\RoninW\Desktop\C#\aula_06\Atv01Fila\bin\Debug\net7.0\Atv01Fila.runtimeconfig.json
+C:\Users\RoninW\Desktop\C#\aula_06\Atv01Fila\bin\Debug\net7.0\Atv01Fila.dll
+C:\Users\RoninW\Desktop\C#\aula_06\Atv01Fila\bin\Debug\net7.0\Atv01Fila.pdb
+C:\Users\RoninW\Desktop\C#\aula_06\Atv01Fila\obj\Debug\net7.0\Atv01Fila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RoninW\Desktop\C#\aula_06\Atv01Fila\obj\Debug\net7.0\Atv01Fila.AssemblyInfoInputs.cache
+C:\Users\RoninW\Desktop\C#\aula_06\Atv01Fila\obj\Debug\net7.0\Atv01Fila.AssemblyInfo.cs
+C:\Users\RoninW\Desktop\C#\aula_06\Atv01Fila\obj\Debug\net7.0\Atv01Fila.csproj.CoreCompileInputs.cache
+C:\Users\RoninW\Desktop\C#\aula_06\Atv01Fila\obj\Debug\net7.0\Atv01Fila.dll
+C:\Users\RoninW\Desktop\C#\aula_06\Atv01Fila\obj\Debug\net7.0\refint\Atv01Fila.dll
+C:\Users\RoninW\Desktop\C#\aula_06\Atv01Fila\obj\Debug\net7.0\Atv01Fila.pdb
+C:\Users\RoninW\Desktop\C#\aula_06\Atv01Fila\obj\Debug\net7.0\Atv01Fila.genruntimeconfig.cache
+C:\Users\RoninW\Desktop\C#\aula_06\Atv01Fila\obj\Debug\net7.0\ref\Atv01Fila.dll

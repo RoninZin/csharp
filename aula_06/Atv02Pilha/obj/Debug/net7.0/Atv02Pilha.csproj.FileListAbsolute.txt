@@ -1,0 +1,14 @@
+C:\Users\RoninW\Desktop\C#\aula_06\Atv02Pilha\bin\Debug\net7.0\Atv02Pilha.exe
+C:\Users\RoninW\Desktop\C#\aula_06\Atv02Pilha\bin\Debug\net7.0\Atv02Pilha.deps.json
+C:\Users\RoninW\Desktop\C#\aula_06\Atv02Pilha\bin\Debug\net7.0\Atv02Pilha.runtimeconfig.json
+C:\Users\RoninW\Desktop\C#\aula_06\Atv02Pilha\bin\Debug\net7.0\Atv02Pilha.dll
+C:\Users\RoninW\Desktop\C#\aula_06\Atv02Pilha\bin\Debug\net7.0\Atv02Pilha.pdb
+C:\Users\RoninW\Desktop\C#\aula_06\Atv02Pilha\obj\Debug\net7.0\Atv02Pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RoninW\Desktop\C#\aula_06\Atv02Pilha\obj\Debug\net7.0\Atv02Pilha.AssemblyInfoInputs.cache
+C:\Users\RoninW\Desktop\C#\aula_06\Atv02Pilha\obj\Debug\net7.0\Atv02Pilha.AssemblyInfo.cs
+C:\Users\RoninW\Desktop\C#\aula_06\Atv02Pilha\obj\Debug\net7.0\Atv02Pilha.csproj.CoreCompileInputs.cache
+C:\Users\RoninW\Desktop\C#\aula_06\Atv02Pilha\obj\Debug\net7.0\Atv02Pilha.dll
+C:\Users\RoninW\Desktop\C#\aula_06\Atv02Pilha\obj\Debug\net7.0\refint\Atv02Pilha.dll
+C:\Users\RoninW\Desktop\C#\aula_06\Atv02Pilha\obj\Debug\net7.0\Atv02Pilha.pdb
+C:\Users\RoninW\Desktop\C#\aula_06\Atv02Pilha\obj\Debug\net7.0\Atv02Pilha.genruntimeconfig.cache
+C:\Users\RoninW\Desktop\C#\aula_06\Atv02Pilha\obj\Debug\net7.0\ref\Atv02Pilha.dll
